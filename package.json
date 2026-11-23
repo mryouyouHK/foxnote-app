@@ -1,0 +1,15 @@
+{
+  "name": "foxnote-mac",
+  "version": "1.0.54",
+  "description": "Fox Note macOS desktop app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Fox Note",
+  "license": "MIT",
+  "devDependencies": {
+    "ds-store": "^0.1.6",
+    "electron": "^45.3.3"
+  }
+}
