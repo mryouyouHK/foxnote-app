@@ -1,3 +1,6 @@
+# 客户端官网
+地址：https://wbapp-zoqww7zmfachjcd4sweasv.app.workbuddy.host/?sharecode=S4Z2LSVS67
+
 # Fox Note (macOS client source)
 
 Fox Note 是一款面向 Mac 的本地优先 Markdown 笔记应用。本仓库只包含客户端运行所需源码，
